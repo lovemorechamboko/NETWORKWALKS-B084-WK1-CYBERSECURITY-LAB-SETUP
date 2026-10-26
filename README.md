@@ -64,26 +64,29 @@ A pre-installed Kali Linux virtual machine was downloaded from the official Kali
 
 A Virtual machine was started and Kali Linux default (credentials) username and password was used to get into the sysytem..
 
-![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/0c5d6757d5f755b73d00384e20a9195b29b35f51/Screenshot%202026-10-26%20005622.png)
+C(https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/0c5d6757d5f755b73d00384e20a9195b29b35f51/Screenshot%202026-10-26%20005622.png)
 
 
-### Step 6: Install and Configure Lab Tools
+### Step 6: Kali Linux Network Configuration Lab
 
-Kali Linux includes many cybersecurity tools for different learning objectives. Depending on your lab requirements, you can explore tools for packet analysis, network discovery, web application testing, and vulnerability assessment.
+Kali Linux Network Configuration was checked and configured with consistent IPv4 address.
 
-For example, Wireshark can be used to inspect network traffic, while Nmap can be used to discover hosts and services on authorized lab networks.
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/7f755b4c6952baabfa479ef86f64e849777abc5e/Screenshot%202026-10-26%20005854.png)
 
-### Step 7: Create a Controlled Testing Environment
 
-To practice safely, create a second virtual machine containing an intentionally vulnerable operating system or application, such as a deliberately vulnerable training environment. Connect it to the isolated host-only or internal network and verify that it is not exposed to your normal home, workplace, or public network.
+### Step 6: Virtual Machine Accessing the Internet
 
-Only scan and test systems that you own or have explicit permission to assess.
+A ping scan was done to confirm if the virtual machine can access the internet and it was successful.
 
-### Step 8: Take Snapshots and Test the Lab
+![image alt]
 
-Use VirtualBox snapshots to save known-good configurations before performing experiments. If a configuration becomes unstable or a test damages the virtual system, restore the snapshot instead of rebuilding the environment.
 
-Verify that Kali Linux starts correctly, network connectivity behaves as expected, and the target virtual machine is accessible only through the intended lab network.
+### Step 8: Take Snapshots
+
+Using a VirtualBox snapshots to save known-good configurations before performing experiments. If a configuration becomes unstable or a test damages the virtual system, restore the snapshot instead of rebuilding the environment.
+
+![image alt]
+
 
 ## Conclusion
 
