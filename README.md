@@ -89,9 +89,9 @@ Internet connectivity was also confirmed using Firefox web browser and its was s
 
 Using a VirtualBox snapshots to save known-good configurations before performing experiments. If a configuration becomes unstable or a test damages the virtual system, restore the snapshot instead of rebuilding the environment.
 
-![image alt]
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/609c9371aeaab448622b81026873279aa3151f5c/Screenshot%202026-10-26%20010318.png)
 
 
 ## Conclusion
 
-By installing VirtualBox, deploying Kali Linux, configuring suitable virtual hardware, and creating an isolated network for target machines, you can build a practical cybersecurity lab for hands-on learning. This environment supports repeatable experiments in penetration testing, network analysis, vulnerability assessment, and defensive security while reducing the risk of affecting real systems.
+By installing VirtualBox, deploying Kali Linux, configuring suitable virtual hardware, and creating an isolated network for target machines, you can build a practical cybersecurity lab for hands-on learning. This environment supports repeatable experiments in penetration testing, cybersecurity, and defensive security while reducing the risk of affecting real systems.
