@@ -25,7 +25,7 @@ At least 30–40 GB of free disk space.
 # Setup Procedure
 ### Step 1: Install VirtualBox
 
-Download Oracle VirtualBox from the official website at https://www.virtualbox.org/. Install the version compatible with your operating system, following the installation instructions provided.
+Installed VirtualBox using guided installation instructions.
 
 ![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/29e5eb14d0a857fd99aad2d06c1faddb6563f874/Screenshot%202026-10-26%20005013.png)
 
@@ -51,23 +51,11 @@ A NAT Network was selected because multiple virtual machines connected to the sa
 This will allow future attacker and target VMs to communicate within the lab.
 
 
-Download Kali Linux
-
-Visit the official Kali Linux website at https://www.kali.org/get-kali/. Download either the installer ISO image or the prebuilt VirtualBox image. Using the prebuilt VirtualBox image can simplify the setup process because the virtual machine is already configured.
-
 ### Step 3: Create the Virtual Machine
 
-If you downloaded the ISO image, open VirtualBox and select New. Name the virtual machine “Kali Linux,” select the appropriate Linux operating system type, and allocate suitable resources.
+A pre-installed Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
 
-A reasonable starting configuration is:
-
-Memory: 4 GB RAM.
-Processors: 2 CPU cores.
-Virtual hard disk: 40 GB, dynamically allocated.
-
-Attach the downloaded Kali Linux ISO to the virtual optical drive. Start the virtual machine and follow the installation wizard to install Kali Linux on the virtual disk.
-
-If you downloaded the prebuilt VirtualBox image, extract the archive and import the provided virtual machine appliance or open the supplied virtual machine configuration file, as applicable.
+![image alt]()
 
 ### Step 4: 
 
