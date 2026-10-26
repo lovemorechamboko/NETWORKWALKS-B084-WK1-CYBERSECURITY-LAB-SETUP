@@ -183,9 +183,9 @@ Lovemore Chamboko
 
 Cybersecurity Professional B084
 
-LinkedIn: 
+LinkedIn: https://lnkd.in/p/deGpKXQ6
 
-YouTube: 
+YouTube: https://youtu.be/ztdeoNycSPo?si=lfO1RHR8eYwpwT0W
 
 ### 📌 Project Information
 
