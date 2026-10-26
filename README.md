@@ -82,7 +82,7 @@ A ping scan was done to confirm if the virtual machine can access the internet a
 
 Internet connectivity was also confirmed using Firefox web browser and its was successful.
 
-![image alt]
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/db8edabce8d9decd859e49e1b123e8681a4b7b44/Screenshot%202026-10-26%20010212.png)
 
 
 ### Step 8: Take Snapshots
