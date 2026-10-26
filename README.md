@@ -4,7 +4,7 @@ Cybersecurity &amp; Ethical Hacking Lab Environment Setup
 Building an isolated virtual lab for penetration testing and ethical hacking
 
 
-📌Setting Up a Cybersecurity Lab Environment Using VirtualBox and Kali Linux
+#📌Setting Up a Cybersecurity Lab Environment Using VirtualBox and Kali Linux
 Introduction
 
 Setting up a cybersecurity lab using Oracle VirtualBox and Kali Linux provides a safe, isolated environment for learning and practicing cybersecurity skills. This lab allows users to explore penetration testing, network security, vulnerability assessment, and ethical hacking without affecting their primary operating system or other devices on the network.
