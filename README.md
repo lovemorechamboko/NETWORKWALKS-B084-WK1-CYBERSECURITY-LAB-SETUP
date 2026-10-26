@@ -1,15 +1,14 @@
-# NETWORKWALKS-B082-WK1-CYBERSECURITY-LAB-SETUP
-Cybersecurity &amp; Ethical Hacking Lab Environment Setup
+# Cybersecurity &amp; Ethical Hacking Lab Environment Setup
 
-Building an isolated virtual lab for penetration testing and ethical hacking
+## Building an isolated virtual lab for penetration testing and ethical hacking
 
 
 ## 📌Setting Up a Cybersecurity Lab Environment Using VirtualBox and Kali Linux#
-# Introduction
+### Introduction
 
 Setting up a cybersecurity lab using Oracle VirtualBox and Kali Linux provides a safe, isolated environment for learning and practicing cybersecurity skills. This lab allows users to explore penetration testing, network security, vulnerability assessment, and ethical hacking without affecting their primary operating system or other devices on the network.
 
-# Requirements
+### Requirements
 
 Before starting, ensure that you have the following:
 
@@ -22,7 +21,7 @@ At least 8 GB of RAM recommended, with additional memory providing better perfor
 
 At least 30–40 GB of free disk space.
 
-# Setup Procedure
+### Setup Procedure
 ### Step 1: Install VirtualBox
 
 Installed VirtualBox using guided installation instructions.
