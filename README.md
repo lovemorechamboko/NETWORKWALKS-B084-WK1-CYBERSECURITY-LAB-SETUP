@@ -29,7 +29,24 @@ Download Oracle VirtualBox from the official website at https://www.virtualbox.o
 
 ![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/29e5eb14d0a857fd99aad2d06c1faddb6563f874/Screenshot%202026-10-26%20005013.png)
 
-### Step 2: Download Kali Linux
+### Step 2: Configure Network Settings
+
+Configured the virtual machine's network adapter according to the purpose of the lab.
+
+After virtual machine installation, a dedicated NAT Network was created in VirtualBox.
+
+Configuration
+Network Name: NATNetwork
+IPV4 Prefix: 10.0.0.0/24
+DHCP: Enabled
+IPv6: Disabled
+
+
+A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
+This will allow future attacker and target VMs to communicate within the lab.
+
+
+Download Kali Linux
 
 Visit the official Kali Linux website at https://www.kali.org/get-kali/. Download either the installer ISO image or the prebuilt VirtualBox image. Using the prebuilt VirtualBox image can simplify the setup process because the virtual machine is already configured.
 
@@ -47,15 +64,7 @@ Attach the downloaded Kali Linux ISO to the virtual optical drive. Start the vir
 
 If you downloaded the prebuilt VirtualBox image, extract the archive and import the provided virtual machine appliance or open the supplied virtual machine configuration file, as applicable.
 
-### Step 4: Configure Network Settings
-
-Configure the virtual machine's network adapter according to the purpose of the lab.
-
-NAT: Provides internet access for updates and downloads while keeping the virtual machine behind VirtualBox's network address translation.
-Host-only networking: Allows communication between the host computer and designated lab virtual machines without directly exposing the lab to the physical network.
-Internal networking: Allows communication between virtual machines on the same isolated virtual network.
-
-For a beginner lab, NAT can be used for initial setup. For security testing, create a separate host-only or internal network for the target machines. Avoid bridged networking for vulnerable test systems unless it is specifically required and properly controlled.
+### Step 4: 
 
 ### Step 5: Start and Update Kali Linux
 
