@@ -27,6 +27,8 @@ At least 30–40 GB of free disk space.
 
 Download Oracle VirtualBox from the official website at https://www.virtualbox.org/. Install the version compatible with your operating system, following the installation instructions provided.
 
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/29e5eb14d0a857fd99aad2d06c1faddb6563f874/Screenshot%202026-10-26%20005013.png)
+
 ### Step 2: Download Kali Linux
 
 Visit the official Kali Linux website at https://www.kali.org/get-kali/. Download either the installer ISO image or the prebuilt VirtualBox image. Using the prebuilt VirtualBox image can simplify the setup process because the virtual machine is already configured.
