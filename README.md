@@ -55,7 +55,11 @@ This will allow future attacker and target VMs to communicate within the lab.
 
 A pre-installed Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
 
-![image alt]()
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/e91e78d0e601dbf7352f09b7be52dd8eda1ca35b/Screenshot%202026-10-26%20005327.png)
+
+A Virtual machine was started and Kali Linux default username and password was used to get into the sysytem.
+
+![image alt]
 
 ### Step 4: 
 
