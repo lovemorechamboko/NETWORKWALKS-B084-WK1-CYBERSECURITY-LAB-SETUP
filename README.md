@@ -50,6 +50,8 @@ IPv6: Disabled
 A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 This will allow future attacker and target VMs to communicate within the lab.
 
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/2a3f60e24e5a3c7980ceef4cfceffb5577632f7b/Screenshot%202026-10-26%20005428.png)
+
 
 ### Step 3: Create the Virtual Machine
 
