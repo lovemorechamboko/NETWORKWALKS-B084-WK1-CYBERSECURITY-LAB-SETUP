@@ -44,6 +44,7 @@ IPV4 Prefix: 10.0.0.0/24
 DHCP: Enabled
 
 IPv6: Disabled
+
 ![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/c20d01e493b75761b8b84f271eaf4431d1f72a95/Screenshot%202026-10-26%20005140.png)
 
 A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
