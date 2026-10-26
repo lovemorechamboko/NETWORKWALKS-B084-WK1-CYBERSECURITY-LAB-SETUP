@@ -78,6 +78,10 @@ Kali Linux Network Configuration was checked and configured with consistent IPv4
 
 A ping scan was done to confirm if the virtual machine can access the internet and it was successful.
 
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/23b0726399ea4f132b74a04d0ec4ef1034d372cd/Screenshot%202026-10-26%20010025.png)
+
+Internet connectivity was also confirmed using Firefox web browser and its was successful.
+
 ![image alt]
 
 
