@@ -59,22 +59,13 @@ A pre-installed Kali Linux virtual machine was downloaded from the official Kali
 
 ![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/e91e78d0e601dbf7352f09b7be52dd8eda1ca35b/Screenshot%202026-10-26%20005327.png)
 
-A Virtual machine was started and Kali Linux default username and password was used to get into the sysytem.
+
+### Step 5: Start Kali Linux
+
+A Virtual machine was started and Kali Linux default (credentials) username and password was used to get into the sysytem..
 
 ![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/0c5d6757d5f755b73d00384e20a9195b29b35f51/Screenshot%202026-10-26%20005622.png)
 
-### Step 4: 
-
-### Step 5: Start and Update Kali Linux
-
-Start Kali Linux and sign in using the credentials configured during installation or supplied for the downloaded image. Open a terminal and update the package lists and installed packages:
-
-bash
-sudo apt update
-sudo apt full-upgrade -y
-
-
-Restart the virtual machine if necessary after updates. Take a snapshot in VirtualBox once the system is configured and working correctly.
 
 ### Step 6: Install and Configure Lab Tools
 
