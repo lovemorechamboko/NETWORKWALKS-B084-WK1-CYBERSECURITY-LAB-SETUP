@@ -61,7 +61,7 @@ A pre-installed Kali Linux virtual machine was downloaded from the official Kali
 
 A Virtual machine was started and Kali Linux default (credentials) username and password was used to get into the sysytem..
 
-C(https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/0c5d6757d5f755b73d00384e20a9195b29b35f51/Screenshot%202026-10-26%20005622.png)
+![image alt](https://github.com/lovemorechamboko/NETWORKWALKS-B084-WK1-CYBERSECURITY-LAB-SETUP/blob/0c5d6757d5f755b73d00384e20a9195b29b35f51/Screenshot%202026-10-26%20005622.png)
 
 
 ### Step 6: Kali Linux Network Configuration Lab
