@@ -181,7 +181,7 @@ Kali Linux: https://kali.org/get-kali
 
 ## Lovemore Chamboko
 
-#### Cybersecurity Professional B084
+#### Cybersecurity Professional
 
 LinkedIn: https://lnkd.in/p/deGpKXQ6
 
