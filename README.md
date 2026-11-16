@@ -187,6 +187,3 @@ LinkedIn: https://lnkd.in/p/deGpKXQ6
 
 YouTube: https://youtu.be/ztdeoNycSPo?si=lfO1RHR8eYwpwT0W
 
-### 📌 Project Information
-
-##### Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
